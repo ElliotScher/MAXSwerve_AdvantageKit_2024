@@ -6,6 +6,7 @@ This is an AdvantageKit implementation of the REV MAXSwerve modules
 ## Customization
 * Change CAN IDs to match your Spark MAX/FLEX controllers
 * Change drive gear ratio to match your robot
+* Change gyro model if using other than NavX-MXP
 * Tune Feedforward with built in autonomous routine (thanks Jonah!)
 * Tune PID gains
 
