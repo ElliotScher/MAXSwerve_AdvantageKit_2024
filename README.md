@@ -13,7 +13,7 @@ This is an AdvantageKit implementation of the REV MAXSwerve modules
 ## Feedforward Tuning Instructions
 * set tuning mode is enabled in Constants.java:
 ```
-public static final TUNING_MODE = true;
+public static final boolean TUNING_MODE = true;
 ```
 * Set up robot in a space where it has plenty of space to drive
 * run ```FeedForwardCharacterization``` auto routine
